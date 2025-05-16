@@ -2,8 +2,8 @@ import React from 'react'
 
 const Projects = () => {
   return (
-    <div className='w-full py-8 bg-gray-600 mt-12'>
-        <div className='w-[90%] grid grid-cols-4 mx-auto text-center text-white text-[25px] font-bold'>
+    <div className='w-full mt-16 mx-auto py-8 bg-gray-600 '>
+        <div className='w-[90%] grid md:grid-cols-2 lg:grid-cols-4 mx-auto gap-8 text-center text-white text-[25px] font-bold'>
             <div>
                 <h2>Completed Projects</h2>
                 <h3 className='text-[32px] text-[#21a776]'>7,507</h3>

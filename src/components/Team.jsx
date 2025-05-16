@@ -52,7 +52,7 @@ const Team = () => {
     <div className='w-full mt-24 pb-24'>
         <h1 className='text-center font-bold text-[45px] lg:text-[55px]'>Our Team</h1>
         <p className='w-[55%] text-[17px] text-center mx-auto'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo voluptas cumque unde labore animi, sunt, laudantium inventore, magni repellendus quaerat adipisci fuga culpa iusto optio a odio? Tenetur, quidem enim!</p>
-        <div className='w-[90%]  mx-auto grid grid-cols-4 mt-16 '>
+        <div className='w-[90%]  mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-y-12 mt-16 '>
             {teamsection}
         </div>
     </div>

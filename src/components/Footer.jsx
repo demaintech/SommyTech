@@ -9,9 +9,9 @@ const Footer = () => {
     <div className='w-full h-auto bg-gray-900 flex flex-col justify-between'>
         <div className='w-[100%] flex flex-col lg:flex-row lg:justify-evenly pl-4 pb-16 lg:pl-0'>
             <div className='pt-8 pr-12'>
-                <div className='w-[110px] h-[100px] flex items-center -ml-8'>
+                <div className='w-[110px] h-[100px] flex items-center'>
                     <img src="/Splittas/assets/footer.png" alt="" />
-                    <h2 className='text-[26px] text-white font-bold -ml-4'>SommyTech</h2>
+                    <h2 className='text-[26px] text-white font-bold'>SommyTech</h2>
                 </div>
             </div>
             <div className='pt-8 '>

@@ -55,7 +55,7 @@ const Testimonials = () => {
     <div className='w-full h-auto py-16 bg-gray-600 mt-24 mb-16'>
         <h1 className='text-center font-bold text-[45px] lg:text-[55px] text-white'>What Our Clients Say</h1>
 
-        <div className='w-[100%] grid grid-cols-5 mt-12'>
+        <div className='w-[100%] grid  grid-cols-1 md:grid-cols-2 gap-y-12 lg:grid-cols-5 mt-12'>
             {clientsection}
         </div>
     </div>
