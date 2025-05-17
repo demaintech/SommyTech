@@ -1,4 +1,4 @@
-# Project Splittas
+# SommyTech
 
-A revolutionary fintech application.
+Building Digital Solutions for a Smarter Future
 
