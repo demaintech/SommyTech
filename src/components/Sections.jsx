@@ -3,7 +3,7 @@ import Home from './Home';
 import About from './About';
 import Projects from './Projects';
 import Services from './Services';
-import WhyChooseus from './Whychooseus';
+import WhyChooseus from './WhyChooseus';
 import Team from './Team';
 import Testimonials from './Testimonials';
 import Contact from './Contact';
@@ -25,4 +25,4 @@ const Sections = () => {
   )
 }
 
-export default Sections
+export default Sections;

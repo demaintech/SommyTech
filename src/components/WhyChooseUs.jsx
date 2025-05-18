@@ -49,4 +49,4 @@ const WhyChooseus = () => {
   )
 }
 
-export default WhyChooseus
+export default WhyChooseus;
